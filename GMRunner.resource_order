@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"libdlgmod","order":2,"path":"extensions/libdlgmod/libdlgmod.yy",},
+    {"name":"libfilesystem","order":1,"path":"extensions/libfilesystem/libfilesystem.yy",},
+    {"name":"runner_open_gamemaker_game","order":1,"path":"scripts/runner_open_gamemaker_game/runner_open_gamemaker_game.yy",},
+    {"name":"runner_check_if_game_has_closed","order":2,"path":"scripts/runner_check_if_game_has_closed/runner_check_if_game_has_closed.yy",},
+  ],
+}

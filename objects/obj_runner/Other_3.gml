@@ -1,0 +1,1 @@
+ds_list_destroy(global.string_split_list);
