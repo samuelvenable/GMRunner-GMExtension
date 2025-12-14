@@ -40,9 +40,9 @@
     "IDEVersion": "2023.11.0.121",
   },
   "resources": [
-    {"id":{"name":"libdlgmod","path":"extensions/libdlgmod/libdlgmod.yy",},},
     {"id":{"name":"string_split","path":"scripts/string_split/string_split.yy",},},
     {"id":{"name":"runner_run_gamemaker_game","path":"scripts/runner_run_gamemaker_game/runner_run_gamemaker_game.yy",},},
+    {"id":{"name":"libdlgmod","path":"extensions/libdlgmod/libdlgmod.yy",},},
     {"id":{"name":"libfilesystem","path":"extensions/libfilesystem/libfilesystem.yy",},},
     {"id":{"name":"runner_open_gamemaker_game","path":"scripts/runner_open_gamemaker_game/runner_open_gamemaker_game.yy",},},
     {"id":{"name":"libxprocess","path":"extensions/libxprocess/libxprocess.yy",},},

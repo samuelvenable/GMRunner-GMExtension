@@ -1,7 +1,6 @@
 globalvar proc; proc = 0;
 global.string_split_list = ds_list_create();
 widget_set_icon(working_directory + "icon.png");
-widget_set_owner(string(int64(window_handle())));
 var prevcapt = widget_get_caption();
 widget_set_caption("Information - GameMaker Runner");
 var button = show_message_cancelable(
